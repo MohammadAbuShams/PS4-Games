@@ -4,7 +4,7 @@
 
 ## Overview
 
-This is an interactive, responsive PS4 games storefront showcasing a collection of popular games. Users can view game details, and prices (discounted and original), and add items to the cart. Additionally, there’s an option to mark games as favorites. The project is styled with a custom CSS design and integrates FontAwesome for icons.
+This is a PS4 games storefront showcasing a collection of popular games. Users can view game details, and prices (discounted and original), and add items to the cart. Additionally, there’s an option to mark games as favorites. The project is styled with a custom CSS design and integrates FontAwesome for icons.
 
 ## Features
 
